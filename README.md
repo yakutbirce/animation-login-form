@@ -16,6 +16,12 @@ This project showcases a web application where users can experience a stylishly 
 
 ---
 
+## `Responsive Design Preview`
+
+![responsive](Ads%C4%B1z.gif)
+
+---
+
 ## `Screen`
 
 ![gif](<Video_230623125631%20(1).gif>)
